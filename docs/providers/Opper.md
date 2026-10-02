@@ -4,7 +4,7 @@ description: "Use Opper models with zerostack through an OpenAI-compatible custo
 
 # Opper
 
-Opper is an EU-hosted AI gateway with 700+ models from 30+ providers behind one
+Opper is an EU-hosted AI gateway with 700+ models from 50+ providers behind one
 OpenAI-compatible API. It is available in zerostack through custom provider
 definitions. The configuration below keeps the API protocol explicit while
 sharing a single `OPPER_API_KEY` environment variable.
